@@ -4,7 +4,7 @@
     "Synsoft <ajaymishra@synsoftglobal.com>"
   ],
   "description": "",
-  "main": ["html2canvas.js","jspdf.debug.js"],
+  "main": "html2canvas.js",
   "moduleType": [],
   "license": "MIT",
   "homepage": "https://github.com/SynsoftDev/thaihome-html2canvas"
