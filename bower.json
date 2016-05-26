@@ -1,5 +1,6 @@
 {
-  "name": "https://github.com/SynsoftDev/thaihome-html2canvas.git#master",
+  "name": "thaihome-html2canvas",
+  "package-name": "https://github.com/SynsoftDev/thaihome-html2canvas.git#master",
   "description": "",
   "main": ["html2canvas.js","jspdf.debug.js"],
   "keywords": [
