@@ -7,12 +7,5 @@
   "main": ["html2canvas.js","jspdf.debug.js"],
   "moduleType": [],
   "license": "MIT",
-  "homepage": "https://github.com/SynsoftDev/thaihome-html2canvas",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
+  "homepage": "https://github.com/SynsoftDev/thaihome-html2canvas"
 }
