@@ -4,13 +4,14 @@
     "Synsoft <ajaymishra@synsoftglobal.com>"
   ],
   "description": "",
-  "main": ["html2canvas.js","jspdf.debug.js"],
+  "main": ["dist/html2canvas.js","dist/jspdf.debug.js"],
   "moduleType": [],
   "license": "MIT",
   "homepage": "https://github.com/Szili14/thaihome-dependencies",
   "ignore": [
     "**/.*",
     "node_modules",
+    "bower_components",
     "test",
     "tests"
   ],
