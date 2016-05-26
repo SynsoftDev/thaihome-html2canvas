@@ -1,10 +1,10 @@
 {
-  "name": "htmlcanvas",
+  "name": "thaihome-html2canvas",
   "authors": [
     "Synsoft <ajaymishra@synsoftglobal.com>"
   ],
   "description": "",
-  "main": "html2canvas.js",
+  "main": ["html2canvas.js","jspdf.debug.js"],
   "moduleType": [],
   "license": "MIT",
   "homepage": "https://github.com/SynsoftDev/thaihome-html2canvas"
