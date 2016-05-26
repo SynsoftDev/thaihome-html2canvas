@@ -1,5 +1,5 @@
 {
-  "name": "thaihomecanvas",
+  "name": "thaihome-html2canvas",
   "description": "",
   "main": ["html2canvas.js","jspdf.debug.js"],
   "keywords": [
